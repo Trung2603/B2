@@ -1,0 +1,62 @@
+
+.a{
+    max-width: auto;
+    border: 2px solid black;
+    background-color: gray;
+    font-size: 45px;
+}
+.red{
+    background-color: red;
+    width: 110px;
+    height: 110px;
+    font-size: 30px;
+    text-align: center;
+    max-width: auto;
+    padding: 10px;
+}
+.green{
+    background-color: green;
+    width: 110px;
+    height: 110px;
+    font-size: 30px;
+    text-align: center;
+    max-width: auto;
+    padding: 10px;
+}
+.blue{
+    background-color: blue;
+    width: 110px;
+    height: 110px;
+    font-size: 30px;
+    text-align: center;
+    max-width: auto;
+    padding: 10px;
+}
+p{
+    color: white;
+}
+li{
+    color: blue;
+    font-size: 30px;
+}
+th{
+    background-color: rgb(30, 185, 30);
+    color: white;
+    font-size: 30px;
+}
+td{
+    font-size: 30px;
+}
+tr:nth-child(even) {
+    background-color: rgb(237, 237, 237);
+}
+tr:hover {background-color: #ddd;}
+img{
+    width: 495px;
+    height: 400px;
+    opacity: 50%;
+}
+img:hover{
+    opacity: 100%;
+}
+  

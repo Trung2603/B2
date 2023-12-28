@@ -1,0 +1,17 @@
+p{
+    font-size: 15pt;
+    
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    display: block;
+}
+bold{
+    font-weight: bold;
+    font-size: 25pt;
+}
+a:hover{
+    color: hotpink;
+}
